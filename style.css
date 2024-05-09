@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(to right, #e2cc50, #f8f29e);
+}
+.main{
+    margin-left: 15%;
+    padding: 0 10px;
+}
+.navv{
+    margin-top: 0;
+    height: 20%;
+}
+.btn{
+    background-image: linear-gradient(to right, #e7962b, #f7eb4a);
+    width: 20%;
+}
+.text{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+ul li{
+    padding: 0 10px;
+}
